@@ -1,2 +1,1 @@
-# blog
-blog
+# Do't trust this repository.
